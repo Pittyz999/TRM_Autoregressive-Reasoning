@@ -38,9 +38,10 @@ Este proyecto adapta la arquitectura experimental Tiny Recursive Model (TRM) (or
 
 ## 🚀 Cómo usar este proyecto
 1. Abre el notebook `TRM_Math_Reasoning.ipynb` en Google Colab.
-2. Ejecuta la celda de configuración y montaje de Google Drive.
-3. Para entrenar: Ajusta los parámetros en el formulario "Ejecutar entrenamiento con Seguridad" y dale a Play.
-4. Para inferencia: Ve a la sección "Consola de Pruebas", escribe tu problema en inglés y ejecuta.
+2. Ejecuta la celda de configuración de carpeta y montaje de Google Drive.
+3. Ejecuta las dependencias y la preparación del TRM y tokenizador.
+4. Para entrenar: Ajusta los parámetros en el formulario "Ejecutar entrenamiento con Seguridad" y dale a Play.
+5. Para inferencia: Ve a la sección "Consola de Pruebas", escribe tu problema en inglés y ejecuta.
 
 ### 💻 Requisitos
 Este proyecto fue desarrollado en el entorno de Google Colab, en caso de querer usar el modelo en local estos son las depedencias necesarias:
